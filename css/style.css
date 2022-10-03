@@ -124,16 +124,12 @@
 /* Section */
 
 .main-section .title {
-  color:var(--primary-bg-color);
-  font-family: inherit;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 1.36;
-    text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    
+color:var(--primary-bg-color);
+font-family: inherit;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
 }
 
 /* Buttons */
@@ -144,9 +140,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height:1.6;
-
- 
-  }
+}
 .button{
   color:inherit;
   cursor: pointer;
@@ -219,9 +213,6 @@ color: var(--title-text-color)
   font-size: 14px;
   line-height::1.7;
 }
-
-/* Styles */
-
 /* footer */
 .footer-text{
   text-decoration:none;
