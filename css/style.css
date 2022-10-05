@@ -133,6 +133,7 @@ letter-spacing: 0.03em;
 /* Buttons */
 
 .button{
+font-family: 'Roboto';
 text-decoration: none;
 font-weight: 500;
 font-size: 16px;
@@ -160,6 +161,7 @@ text-decoration: none;
 font-weight: 700;
 font-size: 16px;
 line-height: 1.87;
+letter-spacing: 0.06em;
 }
 
 .button-primary:hover{
@@ -194,6 +196,13 @@ line-height:2;
 letter-spacing: 0.06em;
 }
 
+.project-section{
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+}
+
 .about-team{
 font-size: 16px;
 line-height:1.18; 
@@ -204,6 +213,12 @@ color:var(--title-text-color)
 font-size: 16px;
 line-height:1.87;
 color: var(--title-text-color)
+}
+.team-list{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+letter-spacing: 0.03em;
 }
 
 /* Secondary text */
